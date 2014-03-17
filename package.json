@@ -16,6 +16,7 @@
     "url": "https://github.com/bdunnette/hijiki/issues"
   },
   "dependencies": {
-    "hapi": "~3.0.0"
+    "hapi": "~3.0.0",
+    "nodegit": "~0.1.0"
   }
 }
