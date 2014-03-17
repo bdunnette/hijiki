@@ -1,0 +1,21 @@
+{
+  "name": "hijiki",
+  "version": "0.0.0",
+  "description": "hijiki ======",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bdunnette/hijiki.git"
+  },
+  "author": "Brian Dunnette",
+  "license": "AGPL",
+  "bugs": {
+    "url": "https://github.com/bdunnette/hijiki/issues"
+  },
+  "dependencies": {
+    "hapi": "~3.0.0"
+  }
+}
